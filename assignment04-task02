@@ -1,0 +1,25 @@
+# Assignment04-Task02
+
+## Question 1
+
+### Why does the cost optimizer use Haiku instead of Sonnet?
+
+**Answer**
+
+cost optimizers uses Haiku because its lightning fast so it get my savings answers right away without waiting, its also very cheap to run so the robot doesnt waste money while trying to save money, aside that it perfect for checklists cos it doesnt need a giant expensive brain to match items and fine errors
+
+## Question 2
+
+### Why does the security auditor NOT have Write in its tools list?
+
+**Answer:**
+
+The robot could accidentally break my website if it tried to change delicate security code on its own since its only job is to only look and report so taking away its pen to write keeps the code safe ensuring the robot can never rewrite or damage my files
+
+## Question 3
+
+### Why does the tf-writer use inherit instead of a specific model?
+
+**Answer:**
+
+It matches my project's size, changing from a small brain to a giant brain depending on what i need it also prevents misunderstandings ensuring the robot completely understands my instaructions aside that it automatically upgrades instantly to get smarter whenever a new brain is invented
