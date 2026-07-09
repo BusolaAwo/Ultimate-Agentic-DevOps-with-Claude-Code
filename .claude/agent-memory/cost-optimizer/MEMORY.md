@@ -1,0 +1,2 @@
+- [Portfolio CloudFront PriceClass Optimization](portfolio-cloudfront-pricing.md) — Static website using PriceClass_200, can reduce to PriceClass_100 for 30-50% savings
+- [S3 Lifecycle and Caching Strategy](s3-lifecycle-caching.md) — Portfolio bucket lacks lifecycle policies and 404 caching, identified quick wins

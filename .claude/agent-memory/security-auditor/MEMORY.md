@@ -1,0 +1,3 @@
+- [Project scope](project_scope.md) — portfolio site repo layout, terraform/ scope, sibling tf-writer agent standards
+- [CSP gap in managed headers policy](pattern_managed-security-headers-csp-gap.md) — Managed-SecurityHeadersPolicy has no CSP, check separately
+- [Check .gitignore for tfstate](pattern_check-gitignore-for-state.md) — always verify state files/tfvars are excluded from git
